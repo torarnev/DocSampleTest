@@ -1,5 +1,8 @@
-# Code samples - Template
+# Code samples
 
 ## Description
-Put you samples directly in this file, or use this file as an index
+Samples
+
+* [Hmac java sample](hmacSampleJava.md)
+* [Hmac c# sample](hmacSampleCsharp.md)
 
